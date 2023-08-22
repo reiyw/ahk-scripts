@@ -4,6 +4,7 @@
 <^n::Send "{Down}"
 <^f::Send "{Right}"
 <^b::Send "{Left}"
+<^h::Send "{BS}"
 <^w::Send "^{BS}"
 <^j::Send "{Enter}"
 
