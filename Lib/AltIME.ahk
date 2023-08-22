@@ -11,7 +11,7 @@
 ; Author:              nekocodeX   https://github.com/nekocodeX/alt-ime-ahk-mod
 ; Original author:     karakaram   http://www.karakaram.com/alt-ime-on-off
 
-#Include <IME>
+#Include "IME.ahk"
 
 ; Razer Synapseなど、キーカスタマイズ系のツールを併用しているときのエラー対策
 A_MaxHotkeysPerInterval := 350

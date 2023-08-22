@@ -8,7 +8,7 @@ SetTitleMatchMode "RegEx"
 
 #Include Hotstrings.ahk
 
-#Include <AltIME>
+; #Include <AltIME>
 #Include <VSCode>
 
 /*
