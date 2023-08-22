@@ -7,8 +7,7 @@
 <^h::Send "{BS}"
 <^w::Send "^{BS}"
 <^j::Send "{Enter}"
+<^[::Send "{Esc}"
 
 <!f::Send "^f"
 <!w::Send "^w"
-
-<![::Send "{Esc}"
