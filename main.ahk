@@ -9,7 +9,7 @@ SetTitleMatchMode "RegEx"
 #Include Hotstrings.ahk
 
 ; #Include <AltIME>
-#Include <VSCode>
+; #Include <VSCode>
 
 /*
 Some notes on hotkey modifier symbols
