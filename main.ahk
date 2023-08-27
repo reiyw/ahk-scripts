@@ -38,6 +38,16 @@ Some notes on hotkey modifier symbols
 <^w::Send "^{BS}"
 <^j::Send "{Enter}"
 <^[::Send "{Esc}"
+<^k::
+{
+  Send "{Shift Down}{End}{Shift Up}"
+  Send "{Del}"
+}
+<^u::
+{
+  Send "{Shift Down}{Home}{Shift Up}"
+  Send "{Del}"
+}
 
 <!f::Send "^f"
 <!a::Send "^a"
