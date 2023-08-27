@@ -48,6 +48,8 @@ Some notes on hotkey modifier symbols
   Send "{Shift Down}{Home}{Shift Up}"
   Send "{Del}"
 }
+<!+[::Send "^{PgUp}"
+<!+]::Send "^{PgDn}"
 
 <!f::Send "^f"
 <!a::Send "^a"
