@@ -50,6 +50,8 @@ Some notes on hotkey modifier symbols
 }
 <!+[::Send "^{PgUp}"
 <!+]::Send "^{PgDn}"
+<![::Send "!{Left}"
+<!]::Send "!{Right}"
 
 <!f::Send "^f"
 <!a::Send "^a"
