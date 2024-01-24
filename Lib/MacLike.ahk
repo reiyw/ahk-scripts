@@ -1,4 +1,4 @@
-#HotIf WinActive("ahk_exe Code.exe") or WinACtive("ahk_exe msedge.exe")
+#HotIf WinActive("ahk_exe Code.exe") or WinActive("ahk_exe msedge.exe") or WinActive("ahk_exe Obsidian.exe")
 
 <^p::Send "{Up}"
 <^n::Send "{Down}"
