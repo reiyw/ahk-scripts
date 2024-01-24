@@ -25,7 +25,16 @@
 <![::Send "!{Left}"
 <!]::Send "!{Right}"
 
+<!p::Send "^p"
+<!n::Send "^n"
 <!f::Send "^f"
+<!b::Send "^b"
 <!a::Send "^a"
 <!e::Send "^e"
+<!h::Send "^h"
 <!w::Send "^w"
+<!j::Send "^j"
+<!k::Send "^k"
+<!u::Send "^u"
+
+<!o::Send "^o"
