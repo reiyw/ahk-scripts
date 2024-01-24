@@ -37,4 +37,8 @@
 <!k::Send "^k"
 <!u::Send "^u"
 
+<!z::Send "^z"
+<!x::Send "^x"
+<!c::Send "^c"
+<!v::Send "^v"
 <!o::Send "^o"
